@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/68b5759f-5e6e-4e6d-9b76-232bf6ee6493
+
+
+
 # Project-Arc
 Building ARC, My Own AI Companion — Looking for Advice and Code Reviews
 # I'm building my own AI companion, ARC, as a hobbyist. I'd love advice on how to improve it and make my vision possible.
